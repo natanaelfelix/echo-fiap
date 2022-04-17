@@ -99,7 +99,6 @@ C:\Users\Natanael\Desktop\EchoCities\echo-cities\PortalLCB\PortalLcb.API\obj\Deb
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\PortalLCB\PortalLcb.API\obj\Debug\net5\ECHO.API.genruntimeconfig.cache
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.API\bin\Debug\net5\appsettings.Development.json
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.API\bin\Debug\net5\appsettings.json
-C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.API\bin\Debug\net5\aws-beanstalk-tools-defaults.json
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.API\bin\Debug\net5\ECHO.API.exe
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.API\bin\Debug\net5\ECHO.API.deps.json
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.API\bin\Debug\net5\ECHO.API.runtimeconfig.json

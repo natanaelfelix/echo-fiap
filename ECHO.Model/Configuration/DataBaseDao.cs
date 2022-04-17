@@ -11,11 +11,13 @@ namespace ECHO.MODEL.Configuration
     {
         //private Connect _connect;
         private string _repository;
+        private Connect _connect;
 
         public DataBaseDAO(Connect connect, string repository)
         {
             //_connect = connect;
             this._repository = repository;
+            this._connect = connect;
             Dapper.DefaultTypeMap.MatchNamesWithUnderscores = true;
         }
 
@@ -23,8 +25,10 @@ namespace ECHO.MODEL.Configuration
         {
             get
             {
-                string source = "Server=ec2-34-197-84-74.compute-1.amazonaws.com;Username=vgfookvvmxqkma;Database=dbt4pgsrg9e1pf;Port=5432;Password=53082bc76fa4769e97a7d5d8e859ddd37c21229f90197fe33bc8dc178239fecd;SSLMode =Prefer";
-                return new NpgsqlConnection(source);
+                //string source = "Server=ec2-34-197-84-74.compute-1.amazonaws.com;Username=vgfookvvmxqkma;Database=dbt4pgsrg9e1pf;Port=5432;Password=53082bc76fa4769e97a7d5d8e859ddd37c21229f90197fe33bc8dc178239fecd;SSLMode =Prefer";
+                string connectionString = "Server=" + this._connect.Server + ";Username=" + this._connect.Username + ";Password=" + this._connect.Password + ";Port=" + this._connect.Port + ";Database=" + this._connect.Database + "; SSLMode =Prefer";
+
+                return new NpgsqlConnection(connectionString);
             }
         }
 

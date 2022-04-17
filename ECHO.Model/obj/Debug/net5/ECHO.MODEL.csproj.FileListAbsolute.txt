@@ -10,3 +10,15 @@ C:\Users\Natanael\Desktop\EchoCities\echo-cities\PortalLCB\PortalLCB.Model\obj\D
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\PortalLCB\PortalLCB.Model\obj\Debug\net5\ECHO.MODEL.dll
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\PortalLCB\PortalLCB.Model\obj\Debug\net5\ref\ECHO.MODEL.dll
 C:\Users\Natanael\Desktop\EchoCities\echo-cities\PortalLCB\PortalLCB.Model\obj\Debug\net5\ECHO.MODEL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\bin\Debug\net5\ECHO.MODEL.deps.json
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\bin\Debug\net5\ECHO.MODEL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\bin\Debug\net5\ref\ECHO.MODEL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\bin\Debug\net5\ECHO.MODEL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.csprojAssemblyReference.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.AssemblyInfoInputs.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.AssemblyInfo.cs
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ref\ECHO.MODEL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.Model\obj\Debug\net5\ECHO.MODEL.pdb

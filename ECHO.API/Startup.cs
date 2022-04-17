@@ -10,7 +10,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
-namespace PortalLCB.API
+namespace ECHO.API
 {
     public class Startup
     {
@@ -28,13 +28,10 @@ namespace PortalLCB.API
             services.AddScoped<IMapBLL, MapBLL>();
             services.AddScoped<IMapDAL, MapDAL>();
             var serviceProvider = services.BuildServiceProvider();
-            var logger = serviceProvider.GetService<ILogger<ApplicationLog>>();
-            services.AddSingleton(typeof(ILogger),logger);
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "PortalLCB.API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ECHO.API", Version = "v1" });
             });
 
         }
@@ -46,7 +43,7 @@ namespace PortalLCB.API
             //{
             app.UseDeveloperExceptionPage();
             app.UseSwagger();
-            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PortalLCB.API v1"));
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ECHO.API v1"));
             var config = this.Configuration.GetAWSLoggingConfigSection();
             loggerFactory.AddAWSProvider(config);
             //}
