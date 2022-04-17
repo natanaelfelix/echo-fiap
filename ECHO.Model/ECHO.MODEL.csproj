@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Business\**" />
+    <Compile Remove="Dao\**" />
+    <Compile Remove="Interfaces\**" />
+    <EmbeddedResource Remove="Business\**" />
+    <EmbeddedResource Remove="Dao\**" />
+    <EmbeddedResource Remove="Interfaces\**" />
+    <None Remove="Business\**" />
+    <None Remove="Dao\**" />
+    <None Remove="Interfaces\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entity\Agda.cs" />
+    <Compile Remove="Entity\Armazenado.cs" />
+    <Compile Remove="Entity\ArmazenadoGet.cs" />
+    <Compile Remove="Entity\Autentication.cs" />
+    <Compile Remove="Entity\Body.cs" />
+    <Compile Remove="Entity\Caminhao.cs" />
+    <Compile Remove="Entity\Integrado.cs" />
+    <Compile Remove="Entity\IntegradoGet.cs" />
+    <Compile Remove="Entity\Login.cs" />
+    <Compile Remove="Entity\PrevTruck.cs" />
+    <Compile Remove="Entity\TruckPrev.cs" />
+    <Compile Remove="Entity\TruckStep.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="MySql.Data" Version="8.0.27" />
+    <PackageReference Include="Npgsql" Version="6.0.3" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="3.21.50" />
+    <PackageReference Include="System.Data.Odbc" Version="6.0.0" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+</Project>

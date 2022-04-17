@@ -1,0 +1,15 @@
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\bin\Debug\net5\ECHO.DAL.deps.json
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\bin\Debug\net5\ECHO.DAL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\bin\Debug\net5\ref\ECHO.DAL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\bin\Debug\net5\ECHO.DAL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\bin\Debug\net5\ECHO.MODEL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\bin\Debug\net5\ECHO.MODEL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.csprojAssemblyReference.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.AssemblyInfoInputs.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.AssemblyInfo.cs
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.csproj.CopyComplete
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ref\ECHO.DAL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.DAL\obj\Debug\net5\ECHO.DAL.pdb

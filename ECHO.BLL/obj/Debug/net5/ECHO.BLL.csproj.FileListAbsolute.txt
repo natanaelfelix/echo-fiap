@@ -1,0 +1,17 @@
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.BLL.deps.json
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.BLL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ref\ECHO.BLL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.BLL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.DAL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.MODEL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.DAL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\bin\Debug\net5\ECHO.MODEL.pdb
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.csprojAssemblyReference.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.AssemblyInfoInputs.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.AssemblyInfo.cs
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.csproj.CopyComplete
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ref\ECHO.BLL.dll
+C:\Users\Natanael\Desktop\EchoCities\echo-cities\ECHO-CITIES\ECHO.BLL\obj\Debug\net5\ECHO.BLL.pdb

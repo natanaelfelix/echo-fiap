@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.API\\ECHO.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.API\\ECHO.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.API\\ECHO.API.csproj",
+        "projectName": "ECHO.API",
+        "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.API\\ECHO.API.csproj",
+        "packagesPath": "C:\\Users\\Natanael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natanael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {
+              "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.BLL\\ECHO.BLL.csproj": {
+                "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.BLL\\ECHO.BLL.csproj"
+              },
+              "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj": {
+                "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj"
+              },
+              "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj": {
+                "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "EntityFramework6.Npgsql": {
+              "target": "Package",
+              "version": "[6.4.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.BLL\\ECHO.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.BLL\\ECHO.BLL.csproj",
+        "projectName": "ECHO.BLL",
+        "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.BLL\\ECHO.BLL.csproj",
+        "packagesPath": "C:\\Users\\Natanael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natanael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {
+              "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj": {
+                "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj"
+              },
+              "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj": {
+                "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj",
+        "projectName": "ECHO.DAL",
+        "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\ECHO.DAL.csproj",
+        "packagesPath": "C:\\Users\\Natanael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natanael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {
+              "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.model\\ECHO.MODEL.csproj": {
+                "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.model\\ECHO.MODEL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "AWS.Logger.AspNetCore": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.50, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj",
+        "projectName": "ECHO.MODEL",
+        "projectPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\ECHO.MODEL.csproj",
+        "packagesPath": "C:\\Users\\Natanael\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Natanael\\Desktop\\EchoCities\\echo-cities\\ECHO-CITIES\\ECHO.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Natanael\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.27, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[3.21.50, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

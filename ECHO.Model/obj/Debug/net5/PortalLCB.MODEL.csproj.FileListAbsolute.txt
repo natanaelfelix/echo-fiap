@@ -1,0 +1,12 @@
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\bin\Debug\net5\PortalLCB.MODEL.deps.json
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\bin\Debug\net5\PortalLCB.MODEL.dll
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\bin\Debug\net5\ref\PortalLCB.MODEL.dll
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\bin\Debug\net5\PortalLCB.MODEL.pdb
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.csproj.AssemblyReference.cache
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.AssemblyInfoInputs.cache
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.AssemblyInfo.cs
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.dll
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\ref\PortalLCB.MODEL.dll
+C:\Users\ssbnmx\Documents\Projetos\LcbPanel\lcb-panel\PortalLCB\PortalLCB.Model\obj\Debug\net5\PortalLCB.MODEL.pdb

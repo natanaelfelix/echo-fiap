@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+  </ItemGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include="..\ECHO.DAL\ECHO.DAL.csproj" />
+		<ProjectReference Include="..\ECHO.Model\ECHO.MODEL.csproj" />
+	</ItemGroup>
+
+</Project>
